@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://foodbridge-backend-lipy.onrender.com/api/:path*"
+    }
+  ]
+}
